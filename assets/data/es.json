@@ -1,0 +1,16 @@
+{
+ "header": {
+  "welcome": "Buenos dias, {{user}}",
+  "profile": "Perfil",
+  "notifications": "Alertas",
+  "logout": "Salida segura"
+ },
+ "nav": {
+  "title": "TUS PRODUCTOS",
+  "item1": "TU ORGANIZADOR",
+  "item2": "PAGOS",
+  "item3": "TRANSFERENCIAS",
+  "item4": "CERTIFICADO",
+  "item5": "SEGURIDAD"
+ }
+}
