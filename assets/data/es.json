@@ -12,5 +12,13 @@
   "item3": "TRANSFERENCIAS",
   "item4": "CERTIFICADO",
   "item5": "SEGURIDAD"
+ },
+ "home":{
+  "preTitle": "Mostrar otros productos",
+  "title": "¿Cómo se ven tus finanzas?",
+  "savings_product":"En productos de ahorro tienes: ",
+  "CDT_product":"En CDT tienes:",
+  "current_account":"En tus cuentas corrientes tienes:",
+  "value": "{{value}}"
  }
 }
