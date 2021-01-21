@@ -16,9 +16,13 @@
  "home":{
   "preTitle": "Mostrar otros productos",
   "title": "¿Cómo se ven tus finanzas?",
-  "savings_product":"En productos de ahorro tienes: ",
-  "CDT_product":"En CDT tienes:",
-  "current_account":"En tus cuentas corrientes tienes:",
-  "value": "{{value}}"
+  "slider_savings_product":"En productos de ahorro tienes: ",
+  "slider_CDT_product":"En CDT tienes:",
+  "slider_current_account":"En tus cuentas corrientes tienes:",
+  "value": "{{value}}",
+  "credit_card": { "up_to_date" : "Cupo disponible", "due": "Próximo pago mínimo", "due_date":"Fecha de corte: ", "total": "Total gastado: "},
+  "free_investment_loan": { "up_to_date" : "Te queda por pagar", "due": "Próximo pago mínimo", "balance": "Has pagado: "},
+  "current_account": { "up_to_date" : "Saldo disponible", "due": "En sobregiro"},
+  "fixed_term_deposit_certificate": { "up_to_date" : "Valor invertido", "term": "Plazo:", "due_date": "Fecha de vencimiento"}
  }
 }
