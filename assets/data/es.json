@@ -18,7 +18,7 @@
   "title": "¿Cómo se ven tus finanzas?",
   "slider_savings_product":"En productos de ahorro tienes: ",
   "slider_CDT_product":"En CDT tienes:",
-  "slider_current_account":"En tus cuentas corrientes tienes:",
+  "slider_current_account":"En tu {{product}} tienes:",
   "value": "{{value}}",
   "credit_card": { "up_to_date" : "Cupo disponible", "due": "Próximo pago mínimo", "due_date":"Fecha de corte: ", "total": "Total gastado: "},
   "free_investment_loan": { "up_to_date" : "Te queda por pagar", "due": "Próximo pago mínimo", "balance": "Has pagado: "},
