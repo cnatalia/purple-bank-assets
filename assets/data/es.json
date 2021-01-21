@@ -1,0 +1,28 @@
+{
+ "header": {
+  "welcome": "Buenos dias, {{user}}",
+  "profile": "Perfil",
+  "notifications": "Alertas",
+  "logout": "Salida segura"
+ },
+ "nav": {
+  "title": "TUS PRODUCTOS",
+  "item1": "TU ORGANIZADOR",
+  "item2": "PAGOS",
+  "item3": "TRANSFERENCIAS",
+  "item4": "CERTIFICADO",
+  "item5": "SEGURIDAD"
+ },
+ "home":{
+  "preTitle": "Mostrar otros productos",
+  "title": "¿Cómo se ven tus finanzas?",
+  "slider_savings_product":"En productos de ahorro tienes: ",
+  "slider_CDT_product":"En CDT tienes:",
+  "slider_current_account":"En tus cuentas corrientes tienes:",
+  "value": "{{value}}",
+  "credit_card": { "up_to_date" : "Cupo disponible", "due": "Próximo pago mínimo", "due_date":"Fecha de corte: ", "total": "Total gastado: "},
+  "free_investment_loan": { "up_to_date" : "Te queda por pagar", "due": "Próximo pago mínimo", "balance": "Has pagado: "},
+  "current_account": { "up_to_date" : "Saldo disponible", "due": "En sobregiro"},
+  "fixed_term_deposit_certificate": { "up_to_date" : "Valor invertido", "term": "Plazo:", "due_date": "Fecha de vencimiento"}
+ }
+}
